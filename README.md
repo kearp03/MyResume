@@ -17,5 +17,5 @@ You have two options to compile the LaTeX file (`.tex`) into a PDF:
 1. Install a LaTeX distribution, such as TeX Live or MiKTeX.
 2. Open your terminal or command prompt.
 3. Navigate to the directory containing the `.tex` file.
-4. Run the command: `pdflatex your_filename.tex`.
+4. Run the command: `pdflatex KyleEarpResume.tex`.
 5. This will generate a PDF file in the same directory.
