@@ -1,6 +1,6 @@
 # MyResume
 
-This repository contains my resume written in LaTeX as well as the PDF version. Last updated on 2024/11/7.
+This repository contains my resume written in LaTeX as well as the PDF version. Last updated on 2025/3/13.
 
 ## Compiling the LaTeX File
 
